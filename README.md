@@ -1,2 +1,2 @@
 # GuessingCards-Game
-Random number memory game
+very very very simple guessing cards game I made in C
